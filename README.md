@@ -1,3 +1,3 @@
 # HelloWorld
 SampleRepository
-echo "this is sample world to say hello world"
+echo "this is sample Program to say hello world"
